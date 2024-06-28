@@ -1,7 +1,9 @@
 Project Summary:
+
 In this XN-Project, we collaborated with Kids At Risk Action (KARA) as a group of five members: Aadira Anil Ramakrishnan, Lalitha Shiny Pulletikurthi, Mohit Saini, Pawan Arsh Pamidimukkala, and Venkata Akilesh Reddy Nakka. Our goal was to leverage data to raise public awareness and inform policy regarding the challenges faced by at-risk children in the United States. This project was conducted as part of the ALY6080 Integrated Experiential Learning course under the guidance of Professor Valerie Atherley.
 
 Executive Summary:
+
 Our project focused on the dataset provided by KARA, spanning the years 1930-2017, detailing missing, mistreated, and neglected children across America. The aim was to provide an easily comprehensible visual format that evaluates the effectiveness of Child Protective Services (CPS) and highlights the demographics and circumstances of these children. Through this extensive dataset, KARA seeks to influence public opinion and legislative action to improve child welfare.
 
 Project Highlights:
@@ -53,5 +55,6 @@ By implementing these recommendations, KARA can better utilize data on missing c
 References:
 
 ●	Gray, J.	(2017).Missing	Children	in	the	US.	data.world. https://data.world/jamesgray/missing-children-in-the-us
+
 ●	NCMEC Data. (n.d.). Missing Children Analysis. NATIONAL CENTER FOR MISSING	&	EXPLOITED	CHILDREN.
 https://www.missingkids.org/ourwork/ncmecdata
